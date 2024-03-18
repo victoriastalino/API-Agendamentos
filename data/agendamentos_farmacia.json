@@ -1,0 +1,37 @@
+[ {
+  "idAgendamento" : "8a5edbe0-749f-4c00-bd9d-6bc766af909d",
+  "idUsuario" : "4ae81877-bc7e-4d63-8664-222387eae103",
+  "servico" : "SERVICO1",
+  "dataHora" : "2024-02-20T14:00",
+  "status" : "CANCELADO"
+}, {
+  "idAgendamento" : "818c5422-2bfd-4e86-ac67-dcdfe7c0b469",
+  "idUsuario" : "4ae81877-bc7e-4d63-8664-222387eae103",
+  "servico" : "SERVICO4",
+  "dataHora" : "2024-02-20T15:00",
+  "status" : "AGENDADO"
+}, {
+  "idAgendamento" : "e231235d-4ccc-4772-9c50-a03e29688a9a",
+  "idUsuario" : "4ae81877-bc7e-4d63-8664-222387eae103",
+  "servico" : "SERVICO4",
+  "dataHora" : "2024-02-21T14:00",
+  "status" : "AGENDADO"
+}, {
+  "idAgendamento" : "cc76f6ba-5d1c-4691-a452-fe16e948f337",
+  "idUsuario" : "4ae81877-bc7e-4d63-8664-222387eae103",
+  "servico" : "SERVICO4",
+  "dataHora" : "2024-02-21T13:00",
+  "status" : "AGENDADO"
+}, {
+  "idAgendamento" : "cff13c09-c45e-427e-ac6b-86f839604430",
+  "idUsuario" : "4ae81877-bc7e-4d63-8664-222387eae103",
+  "servico" : "SERVICO3",
+  "dataHora" : "2024-02-21T11:00",
+  "status" : "AGENDADO"
+}, {
+  "idAgendamento" : "efe7c134-9777-4187-8d53-07cad27d48f1",
+  "idUsuario" : "4ae81877-bc7e-4d63-8664-222387eae103",
+  "servico" : "SERVICO2",
+  "dataHora" : "2024-01-15T14:00",
+  "status" : "CANCELADO"
+} ]

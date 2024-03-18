@@ -1,0 +1,13 @@
+[ {
+  "id" : "4ae81877-bc7e-4d63-8664-222387eae103",
+  "nome" : "Usuario de teste",
+  "email" : "testeusuario401@email.com",
+  "dataNascimento" : "2002-10-02",
+  "dataCriacao" : "2024-01-03T10:02:12.1042781"
+}, {
+  "id" : "827de2e3-4a94-498a-888c-c262359930a6",
+  "nome" : "Novo Usuario de teste",
+  "email" : "novousuarioteste@email.com",
+  "dataNascimento" : "2002-07-14",
+  "dataCriacao" : "2024-01-09T08:08:21.2691317"
+} ]
