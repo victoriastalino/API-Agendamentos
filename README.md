@@ -1,7 +1,7 @@
 
 # API Rest de Agendamentos
 
-API Rest desenvolvida para um sistema de agendamento de serviços de farmácia, permitindo o gerenciamento dos usuários e de seus agendamentos. TESTE
+API Rest desenvolvida para um sistema de agendamento de serviços de farmácia, permitindo o gerenciamento dos usuários e de seus agendamentos. 
 
 ## Documentação
 
