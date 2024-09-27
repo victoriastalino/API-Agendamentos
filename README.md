@@ -29,9 +29,9 @@ http://localhost:8080/swagger-ui/index.html
 ## Instalação e execução da aplicação
 
 1. Clonar o repositório utilizando o comando:
-~~~
+~~~~
 git clone {URL do repositório}"
-~~~
+~~~~
 2. Abrir o projeto utilizando uma IDE Java;
 3. Executar o comando "mvn spring-boot:run";
 4. A aplicação será inicializada em: http://localhost:8080.
